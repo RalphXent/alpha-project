@@ -58,7 +58,7 @@
           <p class="mb-3">We offer a variety of Pokémon TCG Products, including Booster Packs, Booster Boxes, Elite Trainer Boxes and more! - Be sure to visit our Shop section to check products availability.
           </p>
           <div class="intro-button mx-auto">
-            <a class="btn btn-primary btn-xl" href="#">Join Us Today!</a>
+            <a class="btn btn-primary btn-xl" href="register.php">Join Us Today!</a>
           </div>
         </div>
       </div>
